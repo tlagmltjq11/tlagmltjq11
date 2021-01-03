@@ -2,10 +2,12 @@
 # 심희섭
 <br>
 <br>
+
 ## Skills that I've used at least once !:punch:
 <p>C#, C, JAVA, C++, Python, MySQL, HTML, Unity:video_game: ...<p/>
 <br>
 <br>
+
 ## Experience:computer:
 * (14.03 - 18.12) 명지대 컴퓨터공학과 학술 동아리 Fire AO 활동
 * (18.09 - 18.12) 명지대학교 컴퓨터공학과 팀프로젝트 'Catch-ur-Crayon'
