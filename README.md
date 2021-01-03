@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=#6FC7E1&height=150&section=header&text=My%20Profile&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=slice&color=#F8E2CF&height=200&section=header&text=My%20Profile&fontSize=80)
 # 심희섭
 
 
