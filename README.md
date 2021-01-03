@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Wave&color=gradient&height=100&section=header&text=My%20Profile&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=Wave&color=gradient&height=150&section=header&text=My%20Profile&fontSize=40)
 # 심희섭
 <br>
 
@@ -22,7 +22,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftlagmltjq11&count_bg=%2379C83D&title_bg=%23555555&icon=ello.svg&icon_color=%23FFFA00&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![footer](https://capsule-render.vercel.app/api?type=Wave&color=gradient&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=Wave&color=gradient&height=150&section=footer)
 <!--
 **tlagmltjq11/tlagmltjq11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
