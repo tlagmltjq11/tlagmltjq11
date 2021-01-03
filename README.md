@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&height=80&section=header&text=My%20Profile&fontSize=50)
-## 심희섭  
-
-
+## 심희섭      
+  
+  
 ## Skills that I've used at least once !:punch:
-C#, C, JAVA, C++, Python, MySQL, HTML, Unity:video_game: ...  
-
-
+C#, C, JAVA, C++, Python, MySQL, HTML, Unity:video_game: ...      
+  
+  
 ## Experience:computer:
 * (14.03 - 18.12) 명지대 컴퓨터공학과 학술 동아리 Fire AO 활동
 * (18.09 - 18.12) 명지대학교 컴퓨터공학과 팀프로젝트 'Catch-ur-Crayon'
