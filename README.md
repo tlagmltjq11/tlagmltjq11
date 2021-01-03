@@ -2,6 +2,7 @@
 
 <!--
 **tlagmltjq11/tlagmltjq11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftlagmltjq11&count_bg=%2379C83D&title_bg=%23555555&icon=ello.svg&icon_color=%23FFFA00&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Here are some ideas to get you started:
 
