@@ -1,11 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&height=80&section=header&text=My%20Profile&fontSize=50)
 # 심희섭
 <br>
-<br>
 
 ## Skills that I've used at least once !:punch:
 <p>C#, C, JAVA, C++, Python, MySQL, HTML, Unity:video_game: ...<p/>
-<br>
 <br>
 
 ## Experience:computer:
