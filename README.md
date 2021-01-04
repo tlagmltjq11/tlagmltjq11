@@ -2,7 +2,7 @@
 <br>
 
 ## Skills that I've used at least once !:punch:
-<p>C#, C, JAVA, C++, Python, MySQL, HTML, Unity:video_game: ...<p/>
+<p>C#, C, JAVA, C++, MySQL, HTML, Unity:video_game: ...<p/>
 <br>
 
 ## Experience:computer:
