@@ -1,8 +1,8 @@
 # 심희섭
 <br>
 
-## Skills that I've used at least once !:punch:
-<p>C#, C, JAVA, C++, MySQL, HTML, Unity:video_game: ...<p/>
+## Skills:punch:
+<p>C#, C, JAVA, MySQL, Unity:video_game: ...<p/>
 <br>
 
 ## Experience:computer:
