@@ -12,6 +12,7 @@
 * (20.03 - 20.06) [명지대 컴퓨터공학과 캡스톤디자인 'Decorescendo' - 우수상 수상](https://github.com/tlagmltjq11/Decorescendo)
 * (20.05 ,  20.12) [ToyProject - 'DragonFlight'(Unity) 게임 제작](https://github.com/tlagmltjq11/DragonFlight)
 * (20.09 - 20.12) [ToyProject - 'Swat_Project'(Unity) 게임 제작](https://github.com/tlagmltjq11/SWAT_UnityProject)
+* (21.01.17 - 21.01.18) [ToyProject - C언어를 이용한 콘솔창 게임](https://github.com/tlagmltjq11/C_Games)
 <br>
 
 ## Current Interest:eyes:
