@@ -2,7 +2,7 @@
 <br>
 
 ## Skills:punch:
-<p>C#, C, JAVA, MySQL, Unity:video_game: ...<p/>
+<p>C#, C, Unity:video_game: ...<p/>
 <br>
 
 ## Experience:computer:
