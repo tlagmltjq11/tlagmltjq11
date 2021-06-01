@@ -15,9 +15,10 @@
 * (21.01.17 - 21.01.18) [ToyProject - C언어로 개발한 콘솔창 게임](https://github.com/tlagmltjq11/C_Games)
 <br>
 
-## Current Interest:eyes:
-* Unity
-* Algorithm  
+## Currently In Progress:eyes:
+* [Algorithm](https://github.com/tlagmltjq11/Algorithm)
+* [Data Structure](https://github.com/tlagmltjq11/Data_Structure)
+* [Math and Graphics](https://github.com/tlagmltjq11/Study_For_Game)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftlagmltjq11&count_bg=%2379C83D&title_bg=%23555555&icon=ello.svg&icon_color=%23FFFA00&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
