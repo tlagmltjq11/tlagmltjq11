@@ -16,7 +16,8 @@
 * (21.01 ~ &nbsp;) [Currently In Progress](#1)
 <br>
 
-## Currently In Progress:eyes: <div id="1"></div>
+<div id="1"></div>
+## Currently In Progress:eyes:
 * [Algorithm](https://github.com/tlagmltjq11/Algorithm)
 * [Data Structure](https://github.com/tlagmltjq11/Data_Structure)
 * [Math and Graphics](https://github.com/tlagmltjq11/Study_For_Game)
