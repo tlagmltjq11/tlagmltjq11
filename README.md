@@ -8,7 +8,6 @@
 ## Experience:computer:
 * (14.03 - 18.12) 명지대 컴퓨터공학과 학술 동아리 Fire AO 활동
 * (18.09 - 18.12) [명지대학교 컴퓨터공학과 팀프로젝트 'Catch-ur-Crayon'](https://github.com/tlagmltjq11/TeamProject)
-* (20.01 - 20.07) 강남 SBS 게임 아카데미 Unity반 수료
 * (20.03 - 20.06) [명지대 컴퓨터공학과 캡스톤디자인 'Decorescendo' - 우수상 수상](https://github.com/tlagmltjq11/Decorescendo)
 * (20.05 ,  20.12) [ToyProject - 'DragonFlight'(Unity) 게임 제작](https://github.com/tlagmltjq11/DragonFlight)
 * (20.09 - 20.12) [ToyProject - 'Swat_Project'(Unity) 게임 제작](https://github.com/tlagmltjq11/SWAT_UnityProject)
