@@ -13,7 +13,8 @@
 * (20.09 - 20.12) [ToyProject - 'Swat_Project'(Unity) 게임 제작](https://github.com/tlagmltjq11/SWAT_UnityProject)
 * (21.01.17 - 21.01.18) [ToyProject - C언어로 개발한 콘솔창 게임](https://github.com/tlagmltjq11/C_Games)
 * (21.01 ~ 21.10.31) [Currently In Progress](#1)
-* (21.11 ~) 넥슨게임즈(넥토리얼) 인턴 근무
+* (21.11 ~ 22.05) 넥슨게임즈(넥토리얼) 인턴 근무
+* (22.05 ~ ) 넥슨게임즈 정직원 근무 중
 <br>
 
 ## <div id="1"></div> Currently In Progress:eyes: 
