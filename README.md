@@ -1,11 +1,11 @@
 # 심희섭
 <br>
 
-## Skills:punch:
+## Skills
 <p>C#, C, Unity:video_game: ...<p/>
 <br>
 
-## Experience:computer:
+## Experience
 * (14.03 - 18.12) 명지대 컴퓨터공학과 학술 동아리 Fire AO 활동
 * (18.09 - 18.12) [명지대학교 컴퓨터공학과 팀프로젝트 'Catch-ur-Crayon'](https://github.com/tlagmltjq11/TeamProject)
 * (20.03 - 20.06) [명지대 컴퓨터공학과 캡스톤디자인 'Decorescendo' - 우수상 수상](https://github.com/tlagmltjq11/Decorescendo)
@@ -17,7 +17,7 @@
 * (22.05 ~ ) 넥슨게임즈 정직원 근무 중
 <br>
 
-## <div id="1"></div> Currently In Progress:eyes: 
+## <div id="1"></div> Currently In Progress
 * [Algorithm](https://github.com/tlagmltjq11/Algorithm)
 * [Data Structure](https://github.com/tlagmltjq11/Data_Structure)
 * [Math and Graphics](https://github.com/tlagmltjq11/Study_For_Game)
