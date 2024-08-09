@@ -2,7 +2,7 @@
 <br>
 
 ## Skills
-<p>C#, C, Unity:video_game: ...<p/>
+<p>C#, C, Unity ...<p/>
 <br>
 
 ## Experience
